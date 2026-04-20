@@ -1,3 +1,3 @@
 # Thumbnail generator
 
-Just some random readme.
+Just some random text.
